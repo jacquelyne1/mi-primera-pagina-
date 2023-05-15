@@ -1,0 +1,88 @@
+<html>
+<head>
+<title><marquee>Mi 1a pagina</marquee></title>
+</head>
+<body bgcolor="RosyBrown">
+<center>Mi primera pagina web<br>
+Autor: Jacquelyne<br>
+Para: Computacion Basica II<br>
+Con: Wendoline Sandoval Trasviña<br>
+En: Voca 3<br><br></center>
+
+
+<h1>Recordar es vivir</h1>
+
+<h2>Recordar es vivir</h2>
+<h3>Recordar es vivir</h3>
+<h4>Recordar es vivir</h4>
+<h5>Recordar es vivir</h5>
+<h6>Recordar es vivir</h6>
+<b><i>Lema:</i><u> la tecnica al servicio de la patria</b></u>
+<br><br>
+<br><s>No se vale dormir en clase, <small>Planea tus actividades</small> y <big>descansa para que rindas en el dia</s></big><br><br>
+
+H<sub>2</sub>O<br>
+
+<br>x<sup>2</sup>+y<sup>2</sup><br><br>
+
+
+
+<font size=1>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+<font size=2>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+<font size=3>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+<font size=4>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+<font size=5>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+<font size=6>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+<font size=7>Ustedes son increibles...Espero y pronto lo reconozcan</font><br>
+
+
+<font size=3 color="FF00FF">Se feliz</font><br>
+<font size=4 color="lime" face="chiller">Se feliz</font><br>
+<font size=5 color="purple">Se feliz</font><br>
+<font size=6 color="#FF0000" face="algerian">Se feliz</font><br>
+<font size=7 color="#A901DB" face script mt>Se feliz</font><br>
+
+
+<blockquote>Vive la vida <br></blockquote>
+
+<blockquote><blockquote>Vive la vida <br></blockquote></blockquote>
+<blockquote><blockquote><blockquote>Vive la vida <br></blockquote></blockquote></blockquote>
+
+
+<blockquote><blockquote>Vive la vida <br></blockquote></blockquote>
+<blockquote><blockquote><blockquote>Vive la vida <br></blockquote></blockquote></blockquote>
+
+
+
+
+
+<p><b>Misión Institucional</b>
+Institución educativa del Estado que forma integralmente a técnicos, profesionistas e investigadores a través de programas pertinentes en diversas áreas del conocimiento, que realiza investigación científica y tecnológica; promueve la innovación y fomenta la vinculación y extensión con los sectores productivo y social, para contribuir al desarrollo tecnológico, económico, político, social y cultural del país.</p>
+
+<p><b>Visión</b>
+Ser referente de la educación superior tecnológica en México y el mundo por la excelencia de la formación que brinda, el conocimiento científico de vanguardia que genera, las soluciones innovadoras que aporta a los problemas nacionales, y sus contribuciones a la transformación del país, en un ambiente de inclusión, libertad, equidad, transparencia y democracia.</p>
+
+
+
+<p align="left"><b>Misión Institucional</b>
+Institución educativa del Estado que forma integralmente a técnicos, profesionistas e investigadores a través de programas pertinentes en diversas áreas del conocimiento, que realiza investigación científica y tecnológica; promueve la innovación y fomenta la vinculación y extensión con los sectores productivo y social, para contribuir al desarrollo tecnológico, económico, político, social y cultural del país.</p>
+
+<p align="rigth"><b>Visión</b>
+Ser referente de la educación superior tecnológica en México y el mundo por la excelencia de la formación que brinda, el conocimiento científico de vanguardia que genera, las soluciones innovadoras que aporta a los problemas nacionales, y sus contribuciones a la transformación del país, en un ambiente de inclusión, libertad, equidad, transparencia y democracia.</p>
+
+<p align="center"><b>Misión Institucional</b>
+Institución educativa del Estado que forma integralmente a técnicos, profesionistas e investigadores a través de programas pertinentes en diversas áreas del conocimiento, que realiza investigación científica y tecnológica; promueve la innovación y fomenta la vinculación y extensión con los sectores productivo y social, para contribuir al desarrollo tecnológico, económico, político, social y cultural del país.</p>
+
+<p align="justify"><b>Visión</b>
+Ser referente de la educación superior tecnológica en México y el mundo por la excelencia de la formación que brinda, el conocimiento científico de vanguardia que genera, las soluciones innovadoras que aporta a los problemas nacionales, y sus contribuciones a la transformación del país, en un ambiente de inclusión, libertad, equidad, transparencia y democracia.</p>
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</body>
+</html>
+
+
